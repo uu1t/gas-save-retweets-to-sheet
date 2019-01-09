@@ -1,0 +1,24 @@
+{
+  "name": "gas-save-retweets-to-sheet",
+  "description": "Fetch and save retweets to Google Sheet on Google Apps Script",
+  "version": "0.1.0",
+  "author": "Yuichi Tanikawa <u1.tanikawa@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/uu1t/gas-save-retweets-to-sheet/issues"
+  },
+  "homepage": "https://github.com/uu1t/gas-save-retweets-to-sheet",
+  "keywords": [],
+  "license": "MIT",
+  "main": "main.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uu1t/gas-save-retweets-to-sheet.git"
+  },
+  "scripts": {
+    "test": "exit 1"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "0.0.35"
+  }
+}
